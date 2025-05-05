@@ -2,7 +2,7 @@ package unidad2;
 
 import java.util.Random;
 
-public class vectornum1 {
+public class Ejercicio1 {
     public static void main(String[] args) {
         int[] vector_numeros = new int[10]; // Definir el vector
         Random rand = new Random(); // Generador de números aleatorios
